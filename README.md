@@ -14,3 +14,11 @@ c. super-admin having read, write and delete access
 3. In-memory database for storing users, roles, resources, allowed and denied. 
 
 How to run: $ python3 RoleBasedAccessControl.py
+
+Assumptions:
+1. Accuracy of the project schedule dates.
+2. I got all the resources that I need.
+3. A supplier of laptops will be able to fulfill a request for 300 laptops within two weeks of ordering them.
+4. An existing network will be able to handle the bandwidth requirements for the new hardware.
+
+Estimate the time to complete the task: By 2 days
